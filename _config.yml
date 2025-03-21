@@ -1,0 +1,20 @@
+title:             TN State Prison Project
+email:             tnstateprisonproject@gmail.com
+description:       wip
+author:            Mario and Friends
+#url:               "localhost:4000"
+url:               "https://tnstateprisonproject.github.io/"
+baseurl:
+
+# Social Profiles
+#twitter_username:  SBootstrap
+#github_username:   BlackrockDigital
+#facebook_username: StartBootstrap
+
+# Build settings
+markdown:          kramdown
+paginate:          10
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
